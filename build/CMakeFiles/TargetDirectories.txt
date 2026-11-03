@@ -1,0 +1,3 @@
+/home/amr/dad_phone/torky_enterprise_fabric/torky-wasm-node/build/CMakeFiles/test_kernel.dir
+/home/amr/dad_phone/torky_enterprise_fabric/torky-wasm-node/build/CMakeFiles/edit_cache.dir
+/home/amr/dad_phone/torky_enterprise_fabric/torky-wasm-node/build/CMakeFiles/rebuild_cache.dir
